@@ -1,0 +1,17 @@
+Package: rtinytool
+Title: R Tiny Utility tools
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Syunsuke",
+           family = "Fukuda",
+           role = c("aut", "cre"),
+           email = "ok.xmonad@gmail.com")
+Description: R Tiny Utility tools are useful tool which help you, when you meet something bore.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    magrittr,
+    stringi
